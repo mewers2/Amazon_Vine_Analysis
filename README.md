@@ -10,7 +10,7 @@ The Vine Review Analysis yielded the following results:
 
 #### Vine Program Members (Paid Reviews) Results
 
-![vine 5star summary]()
+![vine 5star summary](https://github.com/mewers2/Amazon_Vine_Analysis/blob/main/Resources/vine_summary.png)
 
 - There are 170 total reviews written by Vine program members
 - There are 37,840 total reviews written by non-members of the Vine program
@@ -18,7 +18,7 @@ The Vine Review Analysis yielded the following results:
 
 #### Vine Program Non-Members (Unpaid Reviews) Results
 
-![nonvine 5star summary]()
+![nonvine 5star summary](https://github.com/mewers2/Amazon_Vine_Analysis/blob/main/Resources/nonvine_summary.png)
 
 - There are 20,612 5-star reviews written by non-members of the Vine program
 - The percentage of 5-star reviews written by Vine program members is 38%
